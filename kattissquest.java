@@ -1,5 +1,5 @@
 //Name: Nguyen Minh Hieu
-//Matric number: A0200814W
+//https://open.kattis.com/problems/kattissquest
 import java.util.*;
 import java.io.*;
 public class kattissquest {
