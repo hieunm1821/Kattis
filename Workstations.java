@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/workstations
 import java.util.*;
 public class Workstations {
 	public static void main(String[] args) {
