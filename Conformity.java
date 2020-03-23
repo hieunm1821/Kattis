@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/conformity
 import java.util.*;
 public class Conformity {
 	public static void main(String[] args) {
