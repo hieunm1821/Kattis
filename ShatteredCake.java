@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/shatteredcake
 import java.util.*;
 public class ShatteredCake {
 	public static void main(String[] args) {
