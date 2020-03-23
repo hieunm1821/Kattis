@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/coconut
 import java.util.*;
 public class Coconut {
 	public static void main(String[] args) {
