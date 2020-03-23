@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/bestrelayteam
 import java.util.*;
 public class BestRelayTeam {
 	public static void main(String[] args) {
