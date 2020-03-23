@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/sortofsorting
 import java.util.*;
 
 public class SortOfSorting {
