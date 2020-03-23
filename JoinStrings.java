@@ -1,5 +1,5 @@
 //Name: Nguyen Minh Hieu
-//Student number: A0200814W
+//https://open.kattis.com/problems/joinstrings
 import java.util.*;
 import java.io.*;
 public class JoinStrings {
