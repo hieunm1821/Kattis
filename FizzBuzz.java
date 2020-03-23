@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/fizzbuzz
 import java.util.*;
 public class FizzBuzz {
 	public static void main(String[] args) {
