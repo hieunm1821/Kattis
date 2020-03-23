@@ -1,3 +1,5 @@
+//Name: Nguyen Minh Hieu
+//https://open.kattis.com/problems/skener
 import java.util.*;
 public class Skener {
 	public static void main(String[] args) {
